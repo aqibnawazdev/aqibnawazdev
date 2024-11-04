@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aqib Nawaz
 - 👀 I’m interested in Google cloud and Web AI
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Next.Js
 - 📫 How to reach me aqibnawaz032@gmail.com
