@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 - 👋 Hi, I’m **Aqib Nawaz**
 - 👀 Passionate about **Google Cloud** & **Web AI**
-- 🌱 Currently diving into **Next.js**
+- 🌱 Currently diving into **Python**
 - 📫 Reach me at: **aqibnawaz032@gmail.com**
 
 ---
